@@ -9,8 +9,7 @@
 
 - 💬 Ask me about **React**
 
-- 📫 How to reach me **yogesh111sapkota@gmail.com** **https://myportfolio-drab-two-24.vercel.app/**
-
+- 📫 How to reach me **yogesh111sapkota@gmail.com** 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
